@@ -1,0 +1,70 @@
+8 FUNDAMENTOS - PROCURAR NO SLIDE
+
+
+PDCL (mesma coisa de pdca, mas escrever sempre com o l)
+PLANO - PLANEJA, COMO CONTROLHAR TUDO ISSO, DEFINIR ANTES
+DO - FAZER, PQ "PLANEJAMENTO SEM ATITUDE NÃO SERVE" *blergh
+CHECK - VERIFICAR O RESULTADO COM BASE NO PLANEJAMENTO
+LEARN - APRENDER
+
+Ciclo de aprendizagem e PDCL serve para TUDO que eu quiser, posso aplicar em qqr lugar.
+
+45 questões - avaliação diagnóstica
+
+== modelo de excelencia da gestão (MEG)(tem curso ead no sebrae)
+1 - pensamento sistemico
+compreensão e tratamento das relações de interdependencia e seus efeitos entre os diversos componentes que formam a organização. bem como entre esses e o ambiente com o qual interagem.
+
+2 - aprendizado organizacional e inovação
+
+-> o MEG a última revisão introduziu o tangram
+
+
+conceitos de governança de TI 
+- um sistema pelo qual o uso atual e futuro da TI são dirigidos e controlados
+- tb é implementação da estratégia, o alinhamento com as necessidades de negócios (primeiro vem negócio e não TI)
+
+== CONVERGENCIA DE MODELOS
+- pra ajudar a governança, uso o CobiT (pesquisar)
+
+== MELHORES PRÁTICAS (Frameworks)
+CobiT - é um PDCL
+
+cobit - a versão 5 usa o modelo de capacidade de processo (iso 15504) com 6 niveis de maturidade. pra dizer se os processos estão otimizados.
+
+0 - incompleto
+1 - processo executado
+2 - gerenciado
+3 - estabelecdo
+4 - previsível
+5 - otimizado
+
+
+ESTADO DA ARTE QUESTÃO DE PROVA -> MATURIDADE NÍVEL OLHAR. Referência naquele tópico para aquele processo.
+
+
+== ITIL - Infeormation Technology Infrastructure Library - biblioteca de boas práticas para infraestrutura de T.I - dá pra tirar certificação em ITIL. 100 dólares a prova. 
+- conjunto de boas práticas recomendáveis.
+1 - estratégia
+2 - desenho
+3 - transição
+4 - operação
+5 - melhores (condições)?
+
+Balanced Scorecard - indicadores balanceadores de desempenho
+se o cliente não está 100% satisfeito, pergunte o que precisa melhorar
+criar indicadores para isso
+
+
+
+putcha aula chata do garai
+
+GRUPOS NO MÁXIMO 3 PESSOAS
+
+
+
+
+
+
+
+
