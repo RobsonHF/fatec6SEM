@@ -1,0 +1,84 @@
+01/09
+
+- orientação a objeto
+- estrutura de dados
+- lógica de programação
+
+duas vertentes:
+fluxo e código
+
+plataforma de ensino
+
+
+comparar com ferramentas e vídeos
+
+- pedir pro pessoal do 1º testar
+
+
+PARA AGORA:
+- montar documentação, mostrar o conceito.
+
+orientadores:
+- welligton -> 
+- antonio -> duro demais
+- collevati -> concorrido
+- paulo
+- fabio -> certinho
+
+
+pode não ter java
+
+c#, java ou typescripe
+
+singleplayer ou coop talvez
+
+
+=================== SEGUNDA 02/09
+
+MVP
+tema -> o auxílio dos jogos no ensino de lógica de programação.
+problema -> 
+objetivo -> 
+justificativa ->
+método ->
+
+pesquisa:
+-> mais pesquisa -> bem mais abrangente. como uma temática pra auxílio no ensino.
+
+-> quantitativo -> medir o que os grupos fizeram e se tiveram sucesso. 
+
+-> outro que focasse mto menos no software e menos na pesquisa.
+
+-----> REPRESENTATIVIDADE
+
+
+
+abordagens:
+- testar eficácia?
+- coleta resultado após a construção do software
+- pesquisas de UM dia.
+
+ ou mostra os GANHOS, vantagens que vc teria em aplicar isso
+
+ ou fixação do conteúdo dps de ser explicado com as pequenas atividades de jogo para outra aula
+
+software dedicado ao auxílio de aprendizagem onde consigamos testar a eficácia de trazer melhores resultados ao professor (para analisar) e citamos nivelamento.
+
+-->> COLOCAR TB SOBRE DEFICIENTES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
