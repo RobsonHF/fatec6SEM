@@ -18,13 +18,7 @@ comparar com ferramentas e vídeos
 PARA AGORA:
 - montar documentação, mostrar o conceito.
 
-orientadores:
-- welligton -> 
-- antonio -> duro demais
-- collevati -> concorrido
-- paulo
-- fabio -> certinho
-
+escolha dos orientadores: FABIO.
 
 pode não ter java
 
@@ -67,10 +61,20 @@ software dedicado ao auxílio de aprendizagem onde consigamos testar a eficácia
 -->> COLOCAR TB SOBRE DEFICIENTES
 
 
+============== TERCEIRA 04-
+
+- joption pane
+- validar classe do programa
+- validação de variáveis que estão sendo usadas
+- validação de estrutura
+
+-> focar no básico, SEM ORIENTAÇÃO A OBJETOS
+-> colocar um score para os alunos  -> pontuação, ranking ->> DESMISTIFICAR QUE ISSO SEJA GAMEFICATION
+
+-> apresentação de premiação virtual.
 
 
-
-
+para TGI I a documentação precisa estar CONCLUÍDA, não precisa desenvolvimento.
 
 
 
