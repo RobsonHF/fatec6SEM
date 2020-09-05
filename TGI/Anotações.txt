@@ -61,7 +61,7 @@ software dedicado ao auxílio de aprendizagem onde consigamos testar a eficácia
 -->> COLOCAR TB SOBRE DEFICIENTES
 
 
-============== TERCEIRA 04-
+============== TERCEIRA 04-09-20
 
 - joption pane
 - validar classe do programa
