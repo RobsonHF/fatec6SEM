@@ -77,6 +77,31 @@ software dedicado ao auxílio de aprendizagem onde consigamos testar a eficácia
 para TGI I a documentação precisa estar CONCLUÍDA, não precisa desenvolvimento.
 
 
+======================
+gameficação.
+- VER OS TCCs do site da fatec.
+- ver o link do projeto do professor.
+
+PRÉ-BANCA: é bom que ocorra no início de novembro.
+
+- problema do trabalho é: jovens tem problemas com lógica por conta de n motivos.
+
+- introdução (contextualização do tema, por que é importante, se as pessoas tem facilidade, evolução do conhecimento, etc. trazendo tudo referenciado.)
+- objetivo geral -> onde a técnica de gameficação vai ajudar no aprendizado. (no primeiro semestre, os alunos podem ter dificuldade em lógica..) desenvolver a ferramenta.
+- objetivos específicos (derivação do objetivo geral). desenvolver a ferramenta x que auxilie no processo de gamefication; fazer um estudo com alunos do primeiro semestre do curso para entender os problemas com lógica; realizar uma experimentação acerca da linguagem a ser utilizada.
+- justificativa: evazão escolar, o desenvolvimento do aplicativo pode diminuir isso.
+- hipóteses: caminhos que serão percorridos para que eu consiga resolver o problema. 
+- resultados almejados.
+
+cap2 -> pesquisa sobre tecnologias de gamefication, tecnologias que a gente vai utilizar. pesquisar sobre evazão escolar, situação atual dela no brasil atualmente.
+-> se formos trabalhar com scrum, fazer pesquisa sobre métodos ágeis.
+-> documentação de experimentação de engenharia de software. SE DER TEMPO.
+
+cap3 -> elaborar a estrutura do projeto em si -> diagramas, modelo de sequencia, entidade-relacionamento. 
+
+considerações finais, cronograma.
+
+ATÉ AQUI VEM A PRÉ-BANCA.
 
 
 
