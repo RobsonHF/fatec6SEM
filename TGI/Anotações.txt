@@ -112,7 +112,27 @@ ATÉ AQUI VEM A PRÉ-BANCA.
 
 
 
+- reflection do java
+
+
+create date
+recebe um parametro em horas
+pega todos do banco que já passou dessa quantidade de horas
+mudar status de pendente pra entregue
+
+procedure para atualizar o status do pedido, após 
+
+
+Prova com consulta. 1h para fazer a prova.
+Dar uma lida nos arquivos da matéria no Teams.
 
 
 
+
+=======================
+PENDENCIAS:
+- banco de dados online (firebase)
+- unit
+- comunicação entre banco-unit
+- login
 
