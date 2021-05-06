@@ -132,7 +132,7 @@ Dar uma lida nos arquivos da matéria no Teams.
 =======================
 PENDENCIAS:
 - banco de dados online (firebase)
-- unit
+- unity
 - comunicação entre banco-unit
 - login
 
