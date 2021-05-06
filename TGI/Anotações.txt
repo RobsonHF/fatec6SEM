@@ -131,8 +131,9 @@ Dar uma lida nos arquivos da matéria no Teams.
 
 =======================
 PENDENCIAS:
-- banco de dados online (firebase)
-- unity
+- unity inserir no texto
+- lógica inserir no texto
 - comunicação entre banco-unit
 - login
+
 
