@@ -110,30 +110,14 @@ ATÉ AQUI VEM A PRÉ-BANCA.
 - referencia
 - 2ª ou 3ª semana de novembro -> pré-banc
 
-
-
-- reflection do java
-
-
-create date
-recebe um parametro em horas
-pega todos do banco que já passou dessa quantidade de horas
-mudar status de pendente pra entregue
-
-procedure para atualizar o status do pedido, após 
-
-
-Prova com consulta. 1h para fazer a prova.
-Dar uma lida nos arquivos da matéria no Teams.
-
-
-
-
 =======================
-PENDENCIAS:
-- unity inserir no texto
-- lógica inserir no texto
-- comunicação entre banco-unit
-- login
+
+
+
+ARRUMAR:
+
+
+form de questionário de feedback do jogador:
+https://forms.gle/26gRRLXrJakHihFg8
 
 
