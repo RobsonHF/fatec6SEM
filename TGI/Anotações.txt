@@ -121,3 +121,54 @@ form de questionário de feedback do jogador:
 https://forms.gle/26gRRLXrJakHihFg8
 
 
+história pra fase:
+- vc está numa sala trancada e tem um monte de botões com poucas informções.
+
+- opçoes configurar volume etc
+- aba de about pra gente escrever sobre a gente
+- mudar o nome do projeto na main
+
+- ver como exportar do unity 
+
+- escrever sobre a escolha da matriz
+
+- tela de erro: mostrando o erro.
+- mensagem de erro de validação no login.
+
+QUESTÃO Tutorial:
+História: "Neste jogo, você deverá clicar em botões específicos que serão as respostas das perguntas. Se clicar em botões errados, você explodirá uma bomba e será obrigado a reiniciar a fase. A cada reinício, os botões mudam aleatoriamente." 
+Pergunta: Clique nos botões que não satisfaçam a condição de x = [numeroX].
+ 
+
+QUESTÃO 1:
+História: "Um vetor é uma estrutura de dados que armazena uma sequência de objetos, todos do mesmo tipo, em posições consecultivas."
+Pergunta: "Clique nos botões cujo índices satisfaçam a condição: x é diferente que [numeroX].
+
+QUESTÃO 2:
+História: "É permitido aos vetores o acesso direto a qualquer elemento dessa estrutura."
+Pergunta: "Clique no botão cujo índice satisfaça a condição: x = [random(0,4)] x 2
+
+
+QUESTÃO 3:
+História: "Uma matriz é uma estutura de dados que armazena uma sequência de objetos em duas dimensões (x e y), ou seja: é um vetor de vetor".
+Pergunta:
+Respostas:
+
+QUESTÃO 4:
+História: "
+Pergunta:
+Respostas:
+
+QUESTÃO 5:
+História: "
+Pergunta:
+Respostas:
+
+
+Tutoria: 1x4, deve-se clicar onde não há mina -> 1 bomba
+1: 1x8, deve-se clicar onde não há mina -> 1 bomba
+2: 1x10, deve-se clicar no ponto escolhido e não nas minas
+3: 2x8, deve-se clicar nos 3 pontos escolhidos e não nas minas
+4: 3x8, deve-se clicar onde não há mina -> 3 bombas
+5: 5x10, deve-se clicar onde não há mina -> 10 bombas
+
