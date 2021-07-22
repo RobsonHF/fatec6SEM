@@ -165,10 +165,65 @@ Pergunta:
 Respostas:
 
 
-Tutoria: 1x4, deve-se clicar onde não há mina -> 1 bomba
-1: 1x8, deve-se clicar onde não há mina -> 1 bomba
-2: 1x10, deve-se clicar no ponto escolhido e não nas minas
-3: 2x8, deve-se clicar nos 3 pontos escolhidos e não nas minas
+Tutoria: 1x4, deve-se clicar onde não há mina -> 1 bomba OK
+1: 1x8, deve-se clicar onde não há mina -> 1 bomba OK
+2: 1x10, deve-se clicar no ponto escolhido e não nas minas OK
+3: 2x8, deve-se clicar nos 3 pontos escolhidos e não nas minas 
 4: 3x8, deve-se clicar onde não há mina -> 3 bombas
 5: 5x10, deve-se clicar onde não há mina -> 10 bombas
 
+
+
+- botão de superpoder para mostrar um dos botões corretos para apertar e perde pontos ao usar
+- botão de entregar e finalizar fase.
+- colocar index no jogo
+
+
+
+
+- sintetizar contexto nos slides iniciais
+
+
+========================== ARPESENTAÇÃO DA BANCA:
+
+- Falta complementar no resumo um detalhamento maior de objetivos e apresentar os resultados (foi gerado protótipo etc)
+- Retirar o público primeiro semestre. Atenda a demanda de quem estiver estudando lógica de programação.
+- Soft skill e hard skill não entra no jogo. Se mantiver, terá que ter uma ótima base teórica.
+
+- IBDEN não pode usar.
+- alterar pessoa do primeira plural para terceiro singular.
+- refinar objetivos específicos e detalhados
+- ausencia de justificativa
+- metodologia 
+
+
+Evasão escolar? -> não contribui.
+
+luciano
+- falta base.
+- Fonte: Autoria própria, 2021
+- Melhorar fonte de imagens, não usar link, apenas nome do autor e ano. Link só na bibliografia.
+- autor da citação da página 15 vem entre parenteses em letra maiúscula
+- traduzir a imagem da figura 3
+- material teórico maior. aplicação, documentação do scrum. 
+- falar sobre UML;
+- fazer diagramas de classes ou explicar sobre as classes do unity
+- Falar sobre segurança, e de ser aberto a tudo. 
+- CONSIDERAÇÕES FINAIS - não conclusões.
+- REFERÊNCIAS -> retirar a palavra bibliográficas
+- Colocar tudo em português
+
+satoshi
+- Verificar se referenias batem com o que tá no documento.
+- Passar um "spider" sobre plágio.
+- referencia das figuras.
+- Explicação entre uma figura e outra. mesmo que seja um ou dois parágrafos. da pesquisa
+- trazer a mesma tela do executável - prints
+- referencial teórico: tem um estudo sobre como absorver conhecimento. procurar. ouvindo, olhando, fazendo, sentindo. estamos no meio da prática. Não adianta nada se conhece o conceito mas não consegue praticar. -> criar um capítulo falando sobre esses itens. 
+- Fazer um quadro comparativo com os concorrentes e com o nosso sistema, elencando o que uns tem e outros não. 
+- passar o executável pra amigos 
+
+
+
+PROCURAR O FABIO SEMANA QUE VEM PRA REUNIÃO E FALAR SOBRE O QUE FAZER
+- 
